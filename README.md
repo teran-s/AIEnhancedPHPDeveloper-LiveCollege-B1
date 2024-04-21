@@ -1,4 +1,4 @@
 # AIEnhancedPHPDeveloper-LiveCollege-B1
  AIEnhancedPHPDeveloper-LiveCollege-B1
 
- This is a new course
+ This is a new coursed
